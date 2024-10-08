@@ -12,6 +12,11 @@ This repository for all codes used in practical lectures with some references an
    - A deep dive into inheritance and polymorphism
    - Getting started with Exceptions how to handle them and build your own exceptions
 
+## References
+
+- https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop
+- https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/interface
+
 ## Dependency
 
 - [.NET 8](https://download.dotnet.com)
