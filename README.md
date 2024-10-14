@@ -11,11 +11,17 @@ This repository for all codes used in practical lectures with some references an
 2. Lecture 02
    - A deep dive into inheritance and polymorphism
    - Getting started with Exceptions how to handle them and build your own exceptions
+3. Lecture 03
+   - Interfaces
+4. Lecture 04
+   - Generics
 
 ## References
 
-- https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop
-- https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/interface
+- [OOP](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop)
+- [Interfaces](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/interface)
+- [Generics overview](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics)
+- [Generic detailed](https://learn.microsoft.com/en-us/dotnet/standard/generics/)
 
 ## Dependency
 
