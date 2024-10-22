@@ -54,7 +54,7 @@ public class GenericArray<TArrayItem>
             throw new IndexOutOfRangeException(nameof(index));
         }
 
-        for (int i = index; i < _items.Length - 1; i++)
+        for (int i = index; i < _items.Length - 2; i++)
         {
             _items[i] = _items[i + 1];
         }
@@ -92,7 +92,7 @@ public class GenericArray<TArrayItem>
 
     private void AddLastWithExtend(TArrayItem item)
     {
-        if (_addIndex < _items.Length - 1)
+        if (_items.Length <= _addIndex)
         {
             var newArray = new TArrayItem[_items.Length * 2];
             Array.Copy(_items, newArray, _items.Length);

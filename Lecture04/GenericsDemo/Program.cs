@@ -4,9 +4,9 @@ public class Program
 {
     private static void Main(string[] args)
     {
-        GenericDemo();
+        // GenericDemo();
         // Then try this
-        // GenericArrayDemo();
+        GenericArrayDemo();
 
         // TODO: Try add generic interfaces
     }
@@ -43,16 +43,16 @@ public class Program
         array.Add(3);
         array.Add(4);
         array.Add(5);
+        Console.Write($"[array({array.LastAdded, 4}/{array.Size, 4})]: ");
+        array.Print();
+        //
         array.Add(6);
         array.Add(7);
         array.Add(8);
         array.Add(9);
         array.Add(10);
-
-        Console.Write($"[array({array.LastAdded, 4})]: ");
-        array.Print();
         array.DeleteAt(5);
-        Console.Write($"[array({array.LastAdded, 4})]: ");
+        Console.Write($"[array({array.LastAdded, 4}/{array.Size, 4})]: ");
         array.Print();
     }
 }
