@@ -15,6 +15,8 @@ This repository for all codes used in practical lectures with some references an
    - Interfaces
 4. Lecture 04
    - Generics
+5. Lecture 05
+   - Collections and Collections Generics
 
 ## References
 
@@ -22,7 +24,47 @@ This repository for all codes used in practical lectures with some references an
 - [Interfaces](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/interface)
 - [Generics overview](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics)
 - [Generic detailed](https://learn.microsoft.com/en-us/dotnet/standard/generics/)
+- [Collections](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/collections)
+- [Collections and Data Structures](https://learn.microsoft.com/en-us/dotnet/standard/collections/)
 
 ## Dependency
 
 - [.NET 8](https://download.dotnet.com)
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/ma7m00dma7m00d/advanced-programming-1
+```
+
+Go to the project directory
+
+```bash
+  cd advanced-programming-1
+```
+
+Select lecture
+
+```bash
+  cd Lecture[01-02-03-04-05]
+```
+
+Select solution
+
+```bash
+  cd <solution-name>
+```
+
+Install dependencies
+
+```bash
+dotnet restore
+```
+
+Run
+
+```bash
+dotnet run
+```
