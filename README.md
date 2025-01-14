@@ -17,6 +17,8 @@ This repository for all codes used in practical lectures with some references an
    - Generics
 5. Lecture 05
    - Collections and Collections Generics
+6. Lecture 06
+   - Text and Binray Files
 
 ## References
 
@@ -26,6 +28,7 @@ This repository for all codes used in practical lectures with some references an
 - [Generic detailed](https://learn.microsoft.com/en-us/dotnet/standard/generics/)
 - [Collections](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/collections)
 - [Collections and Data Structures](https://learn.microsoft.com/en-us/dotnet/standard/collections/)
+- [Common IO tasks](https://learn.microsoft.com/en-us/dotnet/standard/io/common-i-o-tasks)
 
 ## Dependency
 
