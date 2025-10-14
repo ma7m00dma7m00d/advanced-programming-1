@@ -1,4 +1,4 @@
-# Advanced Programming 1 (2024-2025)
+# Advanced Programming 1 (2025-2026)
 
 This repository for all codes used in practical lectures with some references and examples
 
@@ -7,28 +7,20 @@ This repository for all codes used in practical lectures with some references an
 ## Repository Content
 
 1. Lecture 01
-   - A quick review of OOP principles
-2. Lecture 02
-   - A deep dive into inheritance and polymorphism
-   - Getting started with Exceptions how to handle them and build your own exceptions
-3. Lecture 03
-   - Interfaces
-4. Lecture 04
-   - Generics
-5. Lecture 05
-   - Collections and Collections Generics
-6. Lecture 06
-   - Text and Binray Files
+   - Partial classes
+   - Sealed classes
+   - Static classes
+
 
 ## References
 
 - [OOP](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop)
-- [Interfaces](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/interface)
-- [Generics overview](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics)
-- [Generic detailed](https://learn.microsoft.com/en-us/dotnet/standard/generics/)
-- [Collections](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/collections)
-- [Collections and Data Structures](https://learn.microsoft.com/en-us/dotnet/standard/collections/)
-- [Common IO tasks](https://learn.microsoft.com/en-us/dotnet/standard/io/common-i-o-tasks)
+- [Sealed Class](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/sealed)
+- [Static Class](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-classes-and-static-class-members)
+- [Partial Class](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods)
+- [Extension Methods](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)
+- [Struct](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/struct)
+- [Anonymous Types](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/anonymous-types)
 
 ## Dependency
 
@@ -51,13 +43,8 @@ Go to the project directory
 Select lecture
 
 ```bash
+  cd src
   cd Lecture[01-02-03-04-05]
-```
-
-Select solution
-
-```bash
-  cd <solution-name>
 ```
 
 Install dependencies
