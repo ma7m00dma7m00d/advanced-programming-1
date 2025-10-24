@@ -10,7 +10,10 @@ This repository for all codes used in practical lectures with some references an
    - Partial classes
    - Sealed classes
    - Static classes
-
+2. Lecture 02
+   - Interfaces
+   - Interfaces vs Abstract classes
+   - Composition vs Inheritance
 
 ## References
 
@@ -21,6 +24,8 @@ This repository for all codes used in practical lectures with some references an
 - [Extension Methods](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)
 - [Struct](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/struct)
 - [Anonymous Types](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/anonymous-types)
+- [Interfaces](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/interfaces)
+- [Composition vs Inheritance](https://blog.ndepend.com/abstract-class-vs-interface-in-c)
 
 ## Dependency
 
