@@ -14,6 +14,15 @@ This repository for all codes used in practical lectures with some references an
    - Interfaces
    - Interfaces vs Abstract classes
    - Composition vs Inheritance
+3. Lecture 03
+   - Struct
+   - Extension Methods
+   - Anonymous Types
+4. Lecture 04
+   - Exception
+   - Built in Exception 
+5. Lecture 05 
+   - StringBuilder class
 
 ## References
 
