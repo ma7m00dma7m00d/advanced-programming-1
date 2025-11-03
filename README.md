@@ -23,6 +23,11 @@ This repository for all codes used in practical lectures with some references an
    - Built in Exception 
 5. Lecture 05 
    - StringBuilder class
+6. Lecture 06
+   - DateTime
+   - TimeZoneInfo
+   - DateOnly
+   - TimeOnly
 
 ## References
 
@@ -35,6 +40,15 @@ This repository for all codes used in practical lectures with some references an
 - [Anonymous Types](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/anonymous-types)
 - [Interfaces](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/interfaces)
 - [Composition vs Inheritance](https://blog.ndepend.com/abstract-class-vs-interface-in-c)
+- [StringBuilder](https://learn.microsoft.com/en-us/dotnet/api/system.text.stringbuilder?view=net-8.0)
+- [Exception](https://learn.microsoft.com/en-us/dotnet/api/system.exception?view=net-8.0)
+- [Built in Exception](https://learn.microsoft.com/en-us/dotnet/api/system.exception?view=net-8.0)
+- [Exception Handling](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch)
+- [DateTime](https://learn.microsoft.com/en-us/dotnet/api/system.datetime?view=net-8.0)
+- [TimeZoneInfo](https://learn.microsoft.com/en-us/dotnet/api/system.timezoneinfo?view=net-8.0)
+- [DateOnly](https://learn.microsoft.com/en-us/dotnet/api/system.dateonly?view=net-8.0)
+- [TimeOnly](https://learn.microsoft.com/en-us/dotnet/api/system.timeonly?view=net-8.0)
+- [DateTimeFormatting](https://learn.microsoft.com/en-us/dotnet/standard/base-types/standard-date-and-time-format-strings)
 
 ## Dependency
 
