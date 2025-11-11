@@ -20,14 +20,17 @@ This repository for all codes used in practical lectures with some references an
    - Anonymous Types
 4. Lecture 04
    - Exception
-   - Built in Exception 
-5. Lecture 05 
+   - Built in Exception
+5. Lecture 05
    - StringBuilder class
 6. Lecture 06
    - DateTime
    - TimeZoneInfo
    - DateOnly
    - TimeOnly
+7. Lecture 07
+   - Regular Expressions
+   - Intro to Generics
 
 ## References
 
@@ -49,6 +52,7 @@ This repository for all codes used in practical lectures with some references an
 - [DateOnly](https://learn.microsoft.com/en-us/dotnet/api/system.dateonly?view=net-8.0)
 - [TimeOnly](https://learn.microsoft.com/en-us/dotnet/api/system.timeonly?view=net-8.0)
 - [DateTimeFormatting](https://learn.microsoft.com/en-us/dotnet/standard/base-types/standard-date-and-time-format-strings)
+- [Regex](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference)
 
 ## Dependency
 
