@@ -31,6 +31,8 @@ This repository for all codes used in practical lectures with some references an
 7. Lecture 07
    - Regular Expressions
    - Intro to Generics
+8. Lecture 08
+   - Generics
 
 ## References
 
@@ -53,6 +55,7 @@ This repository for all codes used in practical lectures with some references an
 - [TimeOnly](https://learn.microsoft.com/en-us/dotnet/api/system.timeonly?view=net-8.0)
 - [DateTimeFormatting](https://learn.microsoft.com/en-us/dotnet/standard/base-types/standard-date-and-time-format-strings)
 - [Regex](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference)
+- [Generics](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics)
 
 ## Dependency
 
