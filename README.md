@@ -33,6 +33,8 @@ This repository for all codes used in practical lectures with some references an
    - Intro to Generics
 8. Lecture 08
    - Generics
+9. Lecture 09
+   - Revesion of previous material
 
 ## References
 
